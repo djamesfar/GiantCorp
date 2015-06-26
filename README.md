@@ -12,7 +12,7 @@ A skeleton for creating applications with [CakePHP](http://cakephp.org) 3.0.
 
 If Composer is installed globally, run
 ```bash
-composer create-project --prefer-dist cakephp/app [app_name]
+composer create-project --prefer-dist cakephp/app GiantCorp
 ```
 
 You should now be able to visit the path to where you installed the app and see
